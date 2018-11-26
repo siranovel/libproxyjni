@@ -1,4 +1,4 @@
-# libproxyjni #
+﻿# libproxyjni #
 c言語からjavaプログラムを呼び出すライブラです。
 
 ## Description ##
@@ -12,7 +12,7 @@ c言語で、オブジェクト指向風に作成しています。
 
 ## Requirement ##
 
-VineLinux ver 6.5にに依存
+java11に依存
 
 ## Usage ##
 
