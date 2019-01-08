@@ -4,7 +4,7 @@ c言語からjavaプログラムを呼び出すライブラです。
 
 ## Description ##
 ![use case](images/ucProxyJNI.jpg)  
-詳細は、https://github.com/siranovel/libproxyjni/wiki
+詳細は、https://github.com/siranovel/libproxyjni/wiki  
 クラス図及びシーケンス図は、  
 https://github.com/siranovel/libproxyjni/wiki/design
 
