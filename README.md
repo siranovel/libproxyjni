@@ -13,8 +13,8 @@ https://github.com/siranovel/libproxyjni/wiki/design
 ## VS. ##
 
 ## Requirement ##
-
-java11に依存
+ver 2.20以降 java11に対応  
+それ以前      java8に対応
 
 ## Usage ##
 
