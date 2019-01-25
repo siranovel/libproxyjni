@@ -11,6 +11,10 @@ https://github.com/siranovel/libproxyjni/wiki/design
 ## Demo ##
 
 ## VS. ##
+* swig vs. libproxyjni  
+![libproxyjni](images/cmpProxyJNI.jpg)  
+
+![libproxyjni](images/cmpSwig.jpg)  
 
 ## Requirement ##
 ver 2.20以降 java11に対応  
