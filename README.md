@@ -11,7 +11,7 @@ https://github.com/siranovel/libproxyjni/wiki/design
 ## Demo ##
 
 ## VS. ##
-* swig vs. libproxyjni  
+* libproxyjni  vs swig.  
 ![libproxyjni](images/cmpProxyJNI.jpg)  
 
 ![libproxyjni](images/cmpSwig.jpg)  
