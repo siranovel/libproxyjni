@@ -1,0 +1,9 @@
+{
+  "name": "libproxyjni",
+  "description": "",
+  "version": "2.2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siranovel/libproxyjni.git"
+  },
+}
