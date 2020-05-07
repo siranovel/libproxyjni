@@ -8,9 +8,11 @@ assignees: ''
 ---
 
 **Describe the bug**
+
 (バグの概要)
 
 **To Reproduce**
+
 (バグの再現手順)
 1. Go to '...'
 2. Click on '....'
@@ -18,6 +20,7 @@ assignees: ''
 4. See error
 
 **Expected behavior**
+
 (Closedになるために必要な状態)
 
 **Desktop (please complete the following information):**
