@@ -1,4 +1,4 @@
-libproxyjni
+﻿libproxyjni
 ===========
 c言語からjavaプログラムを呼び出すライブラです。
 
@@ -17,11 +17,8 @@ https://github.com/siranovel/libproxyjni/wiki/design
 ![libproxyjni](images/cmpSwig.jpg)  
 
 ## Requirement ##
-~~~
-ver 2.2.0以降  java11に対応  
-それ以前        java8に対応  
-~~~
-
+ver 2.2.0以降 java11に対応  
+それ以前      java8に対応
 
 ## Usage ##
 
@@ -35,4 +32,9 @@ ver 2.2.0以降  java11に対応
 
 ## Licence ##
 
+[GPLv2](LICENSE)
+
+
 ## Author ##
+
+[siranovel](https://github.com/siranovel)
