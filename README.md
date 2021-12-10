@@ -1,12 +1,10 @@
 ﻿libproxyjni
 ===========
-c言語からjavaプログラムを呼び出すライブラです。
+c言語からjavaクラス内のメゾッドの呼び出しライブラリです。
 
 ## Description ##
 ![use case](images/ucProxyJNI.jpg)  
-詳細は、https://github.com/siranovel/libproxyjni/wiki  
-クラス図及びシーケンス図は、  
-https://github.com/siranovel/libproxyjni/wiki/design
+詳細は、https://siranovel.github.io/mydocs/proxyjni/lib  
 
 ## Demo ##
 
